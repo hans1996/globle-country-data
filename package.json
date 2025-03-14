@@ -1,0 +1,31 @@
+{
+  "name": "globle-country-data",
+  "version": "1.0.0",
+  "description": "Country data from Globle game with coordinates and ISO codes",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "globle",
+    "countries",
+    "geography",
+    "game",
+    "data"
+  ],
+  "author": "hans1996",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hans1996/globle-country-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hans1996/globle-country-data/issues"
+  },
+  "homepage": "https://github.com/hans1996/globle-country-data#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
